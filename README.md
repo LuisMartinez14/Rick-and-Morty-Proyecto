@@ -9,8 +9,8 @@ Currently, two official plugins are available:
 ![Captura de Rick and Morty](https://github.com/LuisMartinez14/Rick-and-Morty-Proyecto/assets/143353447/9ba925fb-8448-415d-8098-21be61394626)
 
 _Observacion:_
-_Agregar paginacion con useEffect_  
+*_Agregar paginacion con useEffect_  
 
-_Agregar funcion al boton de añadir favoritos_  
+*_Agregar funcion al boton de añadir favoritos_  
 
-_Agregar Location_
+*_Agregar Location_
